@@ -3,3 +3,4 @@ Boss-x-3/
 ├── index.js
 └── commands/
     └── autotyping.js
+require('./commands/autotyping')
